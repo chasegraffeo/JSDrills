@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+
+}
+
+h1 {
+    text-align: center;
+    color: grey;
+}
+
+#best{
+    background-color: grey;
+    border: 100px solid grey;
+    border-radius: 8px; 
+    width: 20em;
+    height: 15em;
+    margin: 0 auto;
+}
+
+.friend {
+   
+}
+h3 {
+    text-align: center;
+    color: black;
+    text-transform: uppercase;
+}
+
+p {
+    color: black;
+}
+
